@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "158179051796",
+    "firebase_url": "https://read-sms-6f895.firebaseio.com",
+    "project_id": "read-sms-6f895",
+    "storage_bucket": "read-sms-6f895.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158179051796:android:8222ae8093479323909a01",
+        "android_client_info": {
+          "package_name": "com.vatsalyadav.apps.readsms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158179051796-adjironul4bitgfcsdsssbart9ir2e9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vatsalyadav.apps.readsms",
+            "certificate_hash": "d01b601e408403ed91be9a1438a5a3a0275d0c9f"
+          }
+        },
+        {
+          "client_id": "158179051796-lk2a5b57v76f31a4m10bj0mlo6gq5407.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4fu200hDHqfRgiVPxk7wumVQ-hrHiS4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158179051796-lk2a5b57v76f31a4m10bj0mlo6gq5407.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
